@@ -1,4 +1,4 @@
-import org.omg.PortableServer.ThreadPolicyOperations;
+﻿import org.omg.PortableServer.ThreadPolicyOperations;
 
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
@@ -10,6 +10,7 @@ public class Main {
 
         Integer a = 0;
         System.out.println(a+ 30*60L);
+	// zhangpj write
 
 
     }
