@@ -12,7 +12,10 @@ public class Main {
         System.out.println(a+ 30*60L);
 	// zhangpj write
     // test1
+<<<<<<< HEAD
 // cba
+=======
+>>>>>>> 5e768ae52303d03602efd03b6db87532b7d989f1
     }
 
     private static List getPage(List list, int paIndex, int paSize) {
